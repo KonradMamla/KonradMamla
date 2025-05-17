@@ -1,55 +1,36 @@
 # Hi, I'm Konrad 👋
 
-I'm a **Software Test Engineer** with almost **4 years of experience** in manual and automation testing  
-across CRM, CMS, and BI platforms.  
-I specialize in:
-- 🧪 **Test automation** (Cypress, Selenium)
-- 🔗 **API testing** (Postman, Karate DSL)
-- 📊 **Performance testing** (JMeter)
-- 🧼 Writing clean and maintainable test code
-- 🚀 Improving test strategies and QA workflows
+**QA Engineer with 4+ years of experience** in manual and automated testing  
+Skilled in **Cypress, API testing (Postman, Karate DSL)**, and **performance testing (JMeter)**.  
+Passionate about clean code, test strategy, and improving software quality.
 
 ---
 
-### 🔧 Tech Stack & Tools  
-![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white&style=for-the-badge)
+### 🧰 Tech Stack  
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white&style=for-the-badge)
+![Playwright](https://img.shields.io/badge/-Playwright-45BA63?logo=playwright&logoColor=white&style=for-the-badge)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white&style=for-the-badge)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
 ![JMeter](https://img.shields.io/badge/-JMeter-D22128?logo=apachejmeter&logoColor=white&style=for-the-badge)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge)
 
 ---
 
-### 📌 Pinned Project
+### 📌 Pinned Projects
 
-🛒 [**IKEA End-to-End Testing**](https://github.com/KonradMamla/ikea)  
-> Automated E2E tests for the IKEA e-commerce flow using Cypress + TypeScript + POM.  
-> CI/CD with GitHub Actions, Allure Reports, and API mocking.
-
-🔍 [📊 See the live Allure Report](https://konradmamla.github.io/ikea/)
+- 🛒 [**IKEA E2E Tests**](https://github.com/KonradMamla/ikea) – Cypress + TypeScript + Allure + GitHub Actions  
+  [📊 Allure Report](https://konradmamla.github.io/ikea/)
 
 ---
 
-### 🎓 Education
-
-**Engineer’s Degree**  
-Faculty of Informatics, **Kielce University of Technology**  
-`2016 – 2021`
+### 📫 Contact
+- 🔗 [LinkedIn](https://www.linkedin.com/in/konrad-mamla)
+- 📬 konrad.mamla@gmail.com
 
 ---
 
-### 📫 Let's Connect
-
-- 📧 konrad.mamla@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/konrad-mamla)
-- 🌐 [GitHub](https://github.com/KonradMamla)
-
----
-
-### ⚡ Currently
-`Open to new opportunities` • Enhancing test automation frameworks • Practicing advanced Cypress
-
+### 🚀 Currently
+Constantly growing as a QA Engineer — exploring new tools, improving automation practices, and staying open to new challenges across various technologies.
