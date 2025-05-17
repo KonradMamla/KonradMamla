@@ -27,8 +27,9 @@ Passionate about clean code, test strategy, and improving software quality.
 ---
 
 ### 📫 Contact
-- 🔗 [LinkedIn](https://www.linkedin.com/in/konrad-mamla)
-- 📬 konrad.mamla@gmail.com
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/konrad-mamla/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:konrad.mamla@gmail.com)
 
 ---
 
